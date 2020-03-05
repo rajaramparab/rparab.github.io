@@ -53,11 +53,6 @@ resources.</li><br>
 </p>
 </div>
 
-
-
-
-
-
 <div class="col-sm-4">
 <h2>In a nutshell..</h2>
 <p>Machine learning enables analysis of massive quantities of data. While it generally delivers faster,
